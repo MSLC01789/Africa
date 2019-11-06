@@ -1,0 +1,3 @@
+public interface Idivisa {
+    public float operacion(float x, float y);
+}
