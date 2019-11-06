@@ -1,0 +1,16 @@
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Pais</title>
+    </head>
+    <body>
+        <body bgcolor="red">
+        <form action="Servlet" method="POST">
+            <center><h1> Digite Pais :</h1> <input type="text" name="dato"></center>
+            <center><input type="submit" value="Aceptar"></center>
+        </form>
+    </body>
+    </body>
+</html>
