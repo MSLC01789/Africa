@@ -1,0 +1,8 @@
+public class divisa implements Idivisa{
+
+    @Override
+    public float operacion(float a, float b) {
+        return a*b;
+    }
+    
+}
